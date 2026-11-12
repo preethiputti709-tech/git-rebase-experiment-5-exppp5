@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this was the old lab
+=======
+this was my quit
+>>>>>>> 51e2af7654ce86c1c48dd69e27e64c9d4476ce9c
